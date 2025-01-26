@@ -1,0 +1,36 @@
+# VMS-like Git Utility
+
+## Overview
+
+This project is a utility tool designed to function similarly to Git, but with a focus on virtual machine snapshots and management. It allows users to track changes, manage versions, and collaborate on virtual machine configurations and states.
+
+## Features
+
+- **Snapshot Management**: Create, manage, and revert to snapshots of virtual machines.
+- **Version Control**: Track changes to VM configurations over time.
+- **Collaboration**: Share and collaborate on VM states with team members.
+- **Branching and Merging**: Support for branching and merging VM states.
+- **History and Logs**: Detailed logs of changes and history of VM states.
+
+## Installation
+
+To install the VMS-like Git Utility, follow these steps:
+
+1. Clone the repository: [not yet available, will be updated soon]
+  ```sh
+  git clone https://github.com/yourusername/vms-git-utility.git
+  ```
+2. Navigate to the project directory:
+  ```sh
+  cd vms-git-utility
+  ```
+3. Install dependencies:
+  ```sh
+  make install
+  ```
+
+## Usage
+
+### Creating a Snapshot
+
+To create a snapshot of a virtual machine, use the following command:
